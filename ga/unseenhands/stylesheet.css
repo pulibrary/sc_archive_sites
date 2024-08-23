@@ -1,0 +1,50 @@
+.white {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a.white:hover{
+	color: #DECF8C;
+	text-decoration: none;
+}
+
+.gallery {
+	font-family: "Times New Roman", Times, serif;
+	padding: 2px 6px 2px;
+	text-align: right;
+}
+
+.title{
+	font-family: "Times New Roman", Times, serif;
+	text-align: left;
+	font-size: 0.8em;
+	line-height: normal;
+	background-position: left;
+	letter-spacing: normal;
+	word-spacing: normal;
+	font-style: italic;
+}
+
+a.title:link {
+}
+
+a.title:visited{
+}
+
+a.title:active{
+}
+
+a.title:hover{
+
+}
+
+.author {
+	font-family: "Times New Roman", Times, serif;
+	text-align: left;
+	font-size: .8em;
+	color: #333333;
+}
+
+ol {
+	list-style-type: upper-roman;
+}

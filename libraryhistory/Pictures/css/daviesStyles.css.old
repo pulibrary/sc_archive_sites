@@ -1,0 +1,102 @@
+body
+{
+	color: black;
+	font-family: Century Gothic, serif;
+	font-size: 12pt;
+}
+
+body.daviesBody
+{
+	margin: 1em;
+}
+
+body.daviesBody h1
+{
+	font-size: 18pt;
+}
+
+body.daviesBody ul.sections li ul li
+{
+	list-style-type: disc;
+}
+
+body.daviesBody ul.sections li .explanation
+{
+	color: #666;
+	font-size: 10pt;
+	padding-left: 1em;
+}
+
+body.resultsBody
+{
+	margin: 0;
+}
+
+.topBody
+{
+	padding: 0;
+	margin: 0;
+}
+
+.daviesName
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 34px;
+	width: 100%;
+	margin: -1px 0 0 0;
+	padding: 3px;
+
+	background-image: url(../img/parch-gr.jpg);
+	background-repeat: repeat;
+	border-bottom: solid 1px #999;
+
+	font-family: Bookman Old Style, Times, serif;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.daviesName a, .daviesName a:link, .daviesName a:visited
+{
+	text-decoration: none;
+	color: #000;
+}
+
+
+.historyLinks
+{
+	font-family: Century Gothic, serif;
+	font-size: 10pt;
+	line-height: 0.25in
+}
+
+.historyLinks A
+{
+	COLOR: blue
+}
+
+
+.statTableHead
+{
+
+	font-style:italic;
+}
+
+.controlLabel
+{
+	text-align: right;
+	font-size: 10pt;
+}
+
+.control
+{
+	font-size: 10pt;
+}
+
+.formCategory
+{
+	font-weight: bold;
+	padding-top: 2px;
+	border-bottom: solid 1px #aaa;
+}

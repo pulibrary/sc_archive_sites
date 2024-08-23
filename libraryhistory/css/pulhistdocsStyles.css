@@ -1,0 +1,61 @@
+body
+{
+	color: black;
+	font-family: Palatino Linotype, serif;
+	font-size: 12pt;
+}
+
+body.pulhistdocsBody
+{
+	margin: 1em;
+}
+
+body.pulhistdocsBody h1
+{
+	font-size: 20pt;
+}
+
+
+body.pulhistdocsBody fineprint
+{
+	color: black;
+	font-family: Arial, sanserif;
+	font-size: 9pt;
+}
+
+body.pulhistdocsBody ul.sections li ul li
+{
+	list-style-type: disc;
+}
+
+body.pulhistdocsBody ul.sections li .explanation
+{
+	color: #666;
+	font-size: 10pt;
+	padding-left: 1em;
+}
+
+
+a:link
+{
+color: #212121;
+text-decoration: none;
+font-weight: bold
+}
+
+
+a:visited
+{
+color: #003366;
+text-decoration: none;
+font-weight: bold
+}
+
+a:hover
+{
+color: #339999;
+text-decoration: underline;
+font-weight: bold
+}
+
+
